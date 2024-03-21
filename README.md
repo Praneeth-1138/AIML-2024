@@ -5,3 +5,4 @@
 #Assignment 3-https://github.com/Praneeth-1138/AIML-2024/blob/main/Assignment3.ipynb
 #Assignment 4-https://github.com/Praneeth-1138/AIML-2024/blob/main/Assignment4.ipynb
 #Assignment 5-https://github.com/Praneeth-1138/AIML-2024/blob/main/Assignment5.ipynb
+#Assignment 6-https://github.com/Praneeth-1138/AIML-2024/blob/main/Assignment6.ipynb
